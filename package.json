@@ -34,5 +34,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holivin21/react-firebase.git"
+  },
+  "keywords": [
+    "reactfirebase"
+  ],
+  "author": "andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holivin21/react-firebase/issues"
+  },
+  "homepage": "https://github.com/holivin21/react-firebase#readme"
 }
